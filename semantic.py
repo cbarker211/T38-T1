@@ -46,4 +46,4 @@ for sentence in sentences:
 
 #Differences when using en_core_web_sm
 #There is now a userwarning saying that the sm model only uses context-sensitive tensors.
-#Now the similarites are very different than before.
+#Now the similarites are very different than previously.
